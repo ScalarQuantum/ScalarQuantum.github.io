@@ -6,3 +6,8 @@ body{
   background-color:#eb96e2;
   color:white;
 }
+#header{
+  border: 2px solid #f8fc03;
+  margin: 10px;
+  padding: 5px;
+}
